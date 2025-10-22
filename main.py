@@ -14,6 +14,3 @@ print("Welcome to demo of workflows. file successfully run through github action
 
 
 
-
-
-print("checking ruff working or not")
